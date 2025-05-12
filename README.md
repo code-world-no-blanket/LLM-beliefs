@@ -1,5 +1,5 @@
 # Evidence-Based Beliefs and Behaviors for LLMs
-Supplemental Materials for "Exploring Evidence-Based Beliefs and Behaviors of LLM-Based Programming Assistants"
+Supplemental Materials for "Exploring the Evidence-Based Beliefs of LLM-Based Programming Assistants"
 
 ## Description of files with paper sections:
 
